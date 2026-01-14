@@ -55,7 +55,7 @@ La combinación de **visualización de árbol (jerarquía)** + **velocidad de te
 | **Taskwarrior** | Potentísimo motor de filtrado y gestión de fechas. | Curva de aprendizaje alta. La visualización jerárquica no es su fuerte nativo (es más lista plana con tags). |
 | **Org-Mode (Emacs)** | El estándar de oro en organización jerárquica. | Requiere aprender Emacs. Es un ecosistema, no una herramienta ligera. Overkill para muchos. |
 | **todo.txt** | Simplicidad universal. | Cero soporte nativo para jerarquías visuales. |
-| **Aplicaciones Web (Todoist, Notion)** | UX moderna, sync, colaboración. | Requieren navegador, mouse, y salir del contexto de desarrollo. Lentas comparadas con TUI. |
+| **Aplicaciones Web (Todoist, Notion)** | UX moderna, sync, colaboración. | Requieren navegador, mouse, y salir del contexto de desarrollo. Lentas comparadas con casi cualquier herramienta que se use 100% en la terminal y no tenga dependencias gráficas. |
 
 ## 5️⃣ Alcance inicial (MVP - Adopción)
 
